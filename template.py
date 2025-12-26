@@ -20,6 +20,8 @@ STRUCTURE = {
     "summarizer": {
         "__init__.py": "",
         "easy_summary.py": "# easy & short summary logic\n",
+        "key_terms.py": "",
+        "questions.py": "",
     },
 }
 
