@@ -1,0 +1,44 @@
+📘 Part 1 Summary:
+Here's a summary of the lecture content:
+
+*   **Course Name:** Computer Architecture (CSE-313)
+*   **Textbook:** "Computer Organization & Design" by Patterson & Hennessy (5th Edition or newer)
+*   **How you get marks:**
+    *   Being in class: 5 marks
+    *   Tests (best 2 out of 4): 40 marks
+    *   Homework (2 assignments): 10 marks
+    *   Mid-term exam: 20 marks
+    *   Final exam: 25 marks
+    *   Total: 100 marks
+
+📘 Part 2 Summary:
+Here is a summary of the lecture:
+
+*   This course teaches how computers work.
+*   You will learn about computer instructions, called MIPS.
+*   We will study how to build a MIPS computer's "brain" (processor).
+*   You will learn how fast computers are and how to make them faster.
+*   We will cover how computers use memory and talk to other devices.
+*   Computer programs come in two main types:
+    *   Programs you use (like games or email).
+    *   Programs that help the computer run (like the operating system).
+
+📘 Part 3 Summary:
+Here is a summary of the lecture content:
+
+*   **Hardware:** These are the computer's physical parts.
+    *   **CPU:** The computer's "brain."
+    *   **Memory:** Stores information (like RAM, ROM).
+    *   **I/O Devices:** Tools to put in or get out information (like mouse, keyboard, screen).
+*   **Operating System (OS):** This program helps your programs talk to the hardware and manages the computer.
+    *   **OS functions:** Handles basic input/output, gives space for memory, and lets many programs run at once.
+    *   **OS examples:** Windows, Linux, MacOS.
+*   **Compiler:** This tool changes programs written in human-like languages (like C, Java) into instructions the computer hardware can understand and run.
+
+📘 Part 4 Summary:
+Here's a summary of the lecture content:
+
+*   **MIPS** stands for Microprocessor without Interlocked Pipeline Stages.
+*   An **Assembler** is a program that changes instruction symbols into computer code.
+*   **Assembly Language** is a symbolic way to write computer instructions.
+

@@ -1,0 +1,6 @@
+python-pptx
+pdfplumber
+google-generativeai
+python-dotenv
+streamlit
+
