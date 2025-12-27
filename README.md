@@ -24,6 +24,7 @@ This project is built with simplicity, usefulness, and real student needs in min
 ---
 
 ## 🧠 How It Works (Pipeline)
+```yaml
 
 PPTX / PDF
 ↓
@@ -37,11 +38,8 @@ AI Summarization (Gemini)
 ↓
 Final Study Notes
 
-yaml
-Copy code
-
 The system is modular, easy to extend, and optimized to reduce unnecessary API calls.
-
+```
 ---
 
 ## 🛠️ Tech Stack
