@@ -39,4 +39,4 @@ def create_structure(base_path, structure):
 
 if __name__ == "__main__":
     create_structure(".", STRUCTURE)
-    print("✅ study-summarizer structure ready (existing files untouched)")
+    print("✅study-summarizer structure ready (existing files untouched)")

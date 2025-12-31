@@ -3,4 +3,3 @@ pdfplumber
 google-generativeai
 python-dotenv
 streamlit
-
